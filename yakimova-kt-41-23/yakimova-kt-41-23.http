@@ -1,0 +1,6 @@
+@yakimova_kt_41_23_HostAddress = http://localhost:5226
+
+GET {{yakimova_kt_41_23_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
